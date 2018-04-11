@@ -11,6 +11,6 @@ In the half year from now (2018.4.11), I will upload codes about Pyro (mainly ex
 
 ### Schedule
 1. Walk through basic examples [Here](http://pyro.ai/examples/).
-2. Try to implement on some mini projects, using our own real dataset to solve problems.
+2. Try to work on some mini projects, using our own real dataset to solve problems.
 3. (uncertain) Maybe our lab will produce teaching videos to explain examples on official website. 
 
