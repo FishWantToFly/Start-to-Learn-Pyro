@@ -10,7 +10,7 @@ What is pyro? It is：
 In the half year from now (2018.4.11), I will upload codes about Pyro (mainly example codes from official website) to make sure that I have done these exercises.
 
 ### Schedule
-1. Walk through basic examples [Here](http://pyro.ai/examples/).
+1. Walk through basic examples [Here](http://pyro.ai/examples/).  In this period, i just copy official example and tutorail and add little my own opnions and comments in ipynb.
 2. Try to work on some mini projects, using our own real dataset to solve problems.
 3. (uncertain) Maybe our lab will produce teaching videos to explain examples on official website. 
 
